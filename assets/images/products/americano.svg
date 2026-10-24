@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="640" viewBox="0 0 840 640" role="img" aria-label="Americano">
+<rect width="840" height="640" rx="48" fill="#E9D8C8"/>
+<circle cx="650" cy="115" r="120" fill="#FFF8F1" opacity=".35"/>
+<circle cx="150" cy="520" r="155" fill="#FFF8F1" opacity=".25"/>
+<path d="M260 245h280v120c0 86-69 155-155 155h-10c-86 0-155-69-155-155V245h40Z" fill="#FFF8F1" opacity=".96"/><path d="M540 285h38c58 0 58 95 0 95h-38" fill="none" stroke="#FFF8F1" stroke-width="28" stroke-linecap="round"/><path d="M310 250h180" stroke="#4A2D22" stroke-width="18" stroke-linecap="round"/><path d="M345 190c-28-44 28-55 0-98M420 190c-28-44 28-55 0-98" fill="none" stroke="#4A2D22" stroke-width="16" stroke-linecap="round"/>
+<text x="420" y="575" text-anchor="middle" font-family="Georgia,serif" font-size="42" fill="#3E2723">Americano</text>
+</svg>

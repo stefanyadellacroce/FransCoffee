@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="640" viewBox="0 0 840 640" role="img" aria-label="Butter Croissant">
+<rect width="840" height="640" rx="48" fill="#F0D6A6"/>
+<circle cx="650" cy="115" r="120" fill="#FFF8F1" opacity=".35"/>
+<circle cx="150" cy="520" r="155" fill="#FFF8F1" opacity=".25"/>
+<path d="M225 350c40-110 120-175 195-175 85 0 160 65 195 175-45 55-115 82-195 82-78 0-148-27-195-82Z" fill="#A96E35" opacity=".88"/><path d="M285 332c36-68 84-103 135-103 52 0 100 35 135 103" fill="none" stroke="#FFF8F1" stroke-width="24" stroke-linecap="round"/><path d="M335 350c24-39 52-59 85-59 34 0 62 20 85 59" fill="none" stroke="#FFF8F1" stroke-width="18" stroke-linecap="round"/>
+<text x="420" y="575" text-anchor="middle" font-family="Georgia,serif" font-size="42" fill="#3E2723">Butter Croissant</text>
+</svg>

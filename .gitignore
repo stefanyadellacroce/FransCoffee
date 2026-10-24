@@ -1,0 +1,20 @@
+/deployment/infinityfree/production-settings.php
+/deployment/infinityfree/output/
+
+# Local credentials and generated deployment data
+/.env
+/.env.*
+!/.env.example
+/deployment/infinityfree/*.zip
+
+# Uploaded customer, payment, profile, and store files
+/uploads/*
+!/uploads/.htaccess
+!/uploads/*/.htaccess
+!/uploads/*/.gitkeep
+
+# Other projects stored beside Franscoffee in this workspace
+/aquapure/
+/eo-eyewear-frontend/
+/FransCoffee/
+/Nicey-Burger-Junction/

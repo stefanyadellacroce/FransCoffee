@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="640" viewBox="0 0 840 640" role="img" aria-label="Cold Brew">
+<rect width="840" height="640" rx="48" fill="#D8B28B"/>
+<circle cx="650" cy="115" r="120" fill="#FFF8F1" opacity=".35"/>
+<circle cx="150" cy="520" r="155" fill="#FFF8F1" opacity=".25"/>
+<rect x="290" y="160" width="220" height="330" rx="32" fill="#FFF8F1" opacity=".95"/><rect x="315" y="250" width="170" height="205" rx="24" fill="#3E2723" opacity=".78"/><path d="M330 215l35 24 34-24 35 24 34-24" fill="none" stroke="#3E2723" stroke-width="16" stroke-linecap="round"/><path d="M420 80l50 120" stroke="#3E2723" stroke-width="18" stroke-linecap="round"/>
+<text x="420" y="575" text-anchor="middle" font-family="Georgia,serif" font-size="42" fill="#3E2723">Cold Brew</text>
+</svg>
